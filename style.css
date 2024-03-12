@@ -2,3 +2,8 @@ h1 {
     background-color: aqua;
     color: blueviolet;
 }
+p {
+    background-color: pink;
+    color: orangered;
+    margin: 50px;
+}
